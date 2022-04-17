@@ -1,1 +1,21 @@
 # CS230-Operating-Platforms
+
+**1.	Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?**
+In this course, we were tasked with helping a client develop a web application of a game the client had already created for the android operating system. The main goal was to expand the game to include more operating systems. Through an online web application, we would show the client that regardless of computer or mobile operating system, the users could interface with the web application in the same manner as was exclusive to only android users. Providing a technical document to outline our process for the development of the web app but also convey to the clients the strengths and weaknesses of specific operating systems. Finally, based on that collected data, we provided our recommendations on implementing this from the design, memory management, storage management, security, and the networks we can access to serve the client and its users better.
+
+**2.	What did you do particularly well in developing this documentation?**
+I understood most operating systems well, and I have used them sparingly. I generally use Windows but have used Linux for various things around the house. I feel as though I detailed the differences and strengths reasonably well.
+
+**3.	What about the process of working through a design document did you find helpful when developing the code?**
+Having a design document to help develop a plan because it gives a record of how and what to do. This is great when you work with a team, and any one of them can pick up the design document and see what the plan is. Additionally, if the project was shelved for a while, it allows the developer to review the plan and understand where the program left off.
+
+**4.	If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?**
+Most of the work done on the design document was done with cursory research. I would have spent more time on the many directions that could be applied to the recommendation section. In a real-world scenario, this section is meant to show my ability to do the work and convey complex topics to an audience that may not be as knowledgeable as I am—additionally, get more specific with the plan concerning the recommendations. Adding a timeline for completion of identified milestones shows trust and confidence in my ability to complete the work with criteria that the client can measure my progress without needing to understand the technical jargon.
+
+**5.	How did you interpret the user's needs and implement them into your software design? Why is it so important to consider the user's needs when designing?**
+Communication is everything, and being able to organize a plan to implement the user's needs helps with that communication. Taking the client's prompt and assembling it into a written and easy-to-understand technical document allows the user to easily read and understand the concepts the developer has gathered concerning the client's needs.
+
+**6.	How did you approach designing software? What techniques or strategies would you use to analyze and design a similar software application in the future?**
+Too often, in the programs that I write, I have a finish line, and I try a line of code to see if it works. After developing a plan that has the finish line clearly explained and the steps that help get there is a more sophisticated method to ensuring the code is thoroughly thought out during the planning phase. Moreover, the written plan developed before coding gives a better view of how to begin and continue. It identifies areas that need to be considered and helps explain what is in the code, so if you ever need to consult with additional help, they can look at the code and the plan for that code to provide more informed guidance. 
+I want to apply this planning strategy to the programs I want to develop because of the confidence it gives the users in the application and faith in the developer for future projects. In addition, programs have better reception if they come with documentation to understand how and why they work the way they do.
+
